@@ -21,8 +21,10 @@
 
 | 文件 | 内容 |
 |------|------|
+| `dajiang_novel_index.md` | 小说正稿编排索引：推荐阅读顺序、正稿/草稿分层、下一步修订原则 |
 | `dajiang_treatment.md` | 企划书：故事内核、人物设定、24集大纲、关键场次、史实边界、开发建议 |
 | `dajiang_full_script.md` | 24集分场大纲：约200场戏、32场★核心场标注 |
+| `dajiang_novel_ch*_*.md` | 小说章节草稿与多轮重写版本，优先按索引阅读 |
 | `silicon_fracture_treatment.md` | 备选方案：《硅谷裂痕》——黄仁勋×苏姿丰原型商战剧本 |
 
 ## 评分对比
